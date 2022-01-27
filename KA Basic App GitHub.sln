@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KA Basic App GitHub", "KA Basic App GitHub\KA Basic App GitHub.csproj", "{6440B373-4854-495B-A7B6-66166A799DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAppTest", "BasicAppTest\BasicAppTest.csproj", "{1C418358-51DD-4B7D-AE14-8A7545B6984E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6440B373-4854-495B-A7B6-66166A799DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6440B373-4854-495B-A7B6-66166A799DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6440B373-4854-495B-A7B6-66166A799DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6440B373-4854-495B-A7B6-66166A799DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C418358-51DD-4B7D-AE14-8A7545B6984E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C418358-51DD-4B7D-AE14-8A7545B6984E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C418358-51DD-4B7D-AE14-8A7545B6984E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C418358-51DD-4B7D-AE14-8A7545B6984E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B58382F-F3DD-42F8-94F3-D70B8EFED1B7}
+	EndGlobalSection
+EndGlobal
